@@ -1,3 +1,3 @@
-function logName(firstName lastName) {
+function logName(firstName, lastName) {
   console.log(firstName, lastName);
 }
